@@ -7,9 +7,9 @@ https://github.com/aliasgharheidaricom/Slime-Mould-Algorithm-A-New-Method-for-St
 
 This project has two components:
 
-* [An IPython notebook]: This is the implementation.
+* [An IPython notebook](./sma_canon_clean_animated.ipynb): This is the implementation.
 
-* [An animated GIF]: This is a visualisation of the learning process. You can reproduce it by running the notebook.
+* [An animated GIF](./sma_animation.gif): This is a visualisation of the learning process. You can reproduce it by running the notebook.
 
 ## Licences
 
